@@ -1,5 +1,6 @@
 # Bai1_Buoi_15_16
- Fullname: https://www.facebook.com/profile.php?id=100029319031873
-+ Date of birth
-+ Class
-+ Address
+
+ ### 1 - [Đặng Xuân Dũng](https://github.com/Tran-Quyen/)
++ 1506/2000.
++ Front-end.
++ Hưng Yên, Việt Nam.
